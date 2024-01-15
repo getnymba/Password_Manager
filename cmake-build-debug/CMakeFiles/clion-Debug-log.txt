@@ -1,4 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -DCMAKE_PREFIX_PATH=/opt/homebrew/opt/qt@5/lib/cmake -S "/Users/nyambayar/Projects/Password Manager" -B "/Users/nyambayar/Projects/Password Manager/cmake-build-debug"
--- Configuring done (0.6s)
+-- Configuring done (1.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/nyambayar/Projects/Password Manager/cmake-build-debug
